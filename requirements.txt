@@ -1,0 +1,11 @@
+Django==4.2.7
+asgiref==3.7.2
+sqlparse==0.4.4
+tzdata==2023.3
+
+# Optional but recommended
+django-crispy-forms==2.1
+crispy-bootstrap5==0.7
+
+# If using environment variables
+python-dotenv==1.0.0
